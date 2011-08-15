@@ -22,6 +22,7 @@ set softtabstop=2
 " Enable mouse support
 set mouse=a
 
+
 scriptencoding utf-8
 
 " Set history to 1000
